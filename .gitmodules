@@ -1,0 +1,4 @@
+[submodule "Python-Module-00"]
+	path = Python-Module-00
+	url = https://github.com/IIAydedeII/Python-Module-00.git
+	branch = main
