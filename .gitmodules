@@ -10,3 +10,7 @@
 	path = Python-Module-02
 	url = https://github.com/IIAydedeII/Python-Module-02.git
 	branch = main
+[submodule "Python-Module-03"]
+	path = Python-Module-03
+	url = https://github.com/IIAydedeII/Python-Module-03.git
+	branch = main
