@@ -30,3 +30,7 @@
 	path = Python-Module-07
 	url = https://github.com/IIAydedeII/Python-Module-07.git
 	branch = main
+[submodule "Python-Module-08"]
+	path = Python-Module-08
+	url = https://github.com/IIAydedeII/Python-Module-08.git
+	branch = main
